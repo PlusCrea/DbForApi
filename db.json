@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "/images/product/product-01.png",
+        "name": "Apple Watch Series 7",
+        "category": "Wheels",
+        "price": 296,
+        "stock": 22,
+        "desc": "asasas"
+      },
+      {
+        "id": 2,
+        "image": "/images/product/product-02.png",
+        "name": "Macbook Pro M1",
+        "category": "Tires",
+        "price": 546,
+        "stock": 22,
+        "desc": "asda"
+      },
+      {
+        "id": 3,
+        "image": "/images/product/product-03.png",
+        "name": "Dell Inspiron 15",
+        "category": "Wheels",
+        "price": 443,
+        "stock": 22,
+        "desc": "45"
+      },
+      {
+        "id": 4,
+        "image": "/images/product/product-04.png",
+        "name": "HP Probook 450",
+        "category": "Brakes",
+        "price": 499,
+        "stock": 22,
+        "desc": "45"
+      }
+    ]
+  }
